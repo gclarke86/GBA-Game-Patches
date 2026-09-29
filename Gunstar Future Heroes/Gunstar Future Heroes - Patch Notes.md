@@ -4,7 +4,7 @@
 
 | ROM | SHA-1 |
 |---|---|
-| Gunstar Future Heroes (Europe) (En,Ja,Fr,De,Es,It) | `ce3ea76de11d4c8b7827578ff26c162241e7ab91` |
+| Gunstar Future Heroes (Europe) (En,Ja,Fr,De,Es,It) | `f30ab501b09026ae045faf8573220d4f9c113376` |
 
 ## Patches
 
